@@ -14,6 +14,12 @@ profile photo
 
 Preprints
 
+Empowering Self-Evolving Agents with Unified Implicit World Models
+Zhongzheng Li, Qingsong Ran, Shikun Feng, Nian Ran, Wenhao Li, Jinbiao Nie, Xiaoyuan Zhang, Yue Wang, Xiaoguang Zhao
+ICML 2026 Conference Submission
+
+
+
 MCCE: A Framework for Multi-LLM Collaborative Co-Evolution
 Nian Ran*, Zhongzheng Li*, Yue Wang, Qingsong Ran, Xiaoyuan Zhang, Shikun Feng, Richard Allmendinger, Xiaoguang Zhao
 arxiv 2025
