@@ -18,7 +18,9 @@ Empowering Self-Evolving Agents with Unified Implicit World Models
 Zhongzheng Li, Qingsong Ran, Shikun Feng, Nian Ran, Wenhao Li, Jinbiao Nie, Xiaoyuan Zhang, Yue Wang, Xiaoguang Zhao
 ICML 2026 Conference Submission
 
-
+LingDE: Linguistic Operators for Differential Evolution with Large Language Models
+Qingsong Ran, Zhongzheng Li, Shikun Feng, Xiaoyuan Zhang, Jinbiao Nie, Nian Ran, Wenhao Li, Yue Wang, Wanjing Ma
+KDD 2026 Research Track Cycle 2 Submission
 
 MCCE: A Framework for Multi-LLM Collaborative Co-Evolution
 Nian Ran*, Zhongzheng Li*, Yue Wang, Qingsong Ran, Xiaoyuan Zhang, Shikun Feng, Richard Allmendinger, Xiaoguang Zhao
