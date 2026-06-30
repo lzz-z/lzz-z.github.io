@@ -57,26 +57,51 @@
 <tr bgcolor="#ffffd0">
   <td style="padding:16px;width:20%;vertical-align:middle">
     <div class="one">
+      <img src='images/optscientist.png' width="160" style="object-fit:cover;width:160px;height:160px;">
+    </div>
+  </td>
+  <td style="padding:20px;width:75%;vertical-align:middle">
+    <span class="papertitle">OPTScientist: Multi-Agent Discovery of Typed Optimizer Programs for Transformer Pretraining</span>
+    <br>
+    <strong>Zhongzheng Li</strong>,
+    Tiancan Feng,
+    Wenhao Li,
+    Qingsong Ran,
+    Shikun Feng,
+    Xiaoyuan Zhang,
+    Yue Wang,
+    Xiaoguang Zhao
+    <br>
+    <span style="color:#c00;">(Conference Submission)</span>
+    <p></p>
+    <p>
+      A theory-guided multi-agent framework that casts optimizer design as a constrained scientific search over a typed domain-specific language. Four role agents &mdash; Theorist, Designer, Engineer, and Reviewer &mdash; collaborate in a closed loop to propose hypotheses, synthesize DSL candidates, compile-and-evaluate optimizers, and critique results, combining evolutionary search with on-demand DSL extensions when failures expose representational bottlenecks. It discovers RS-MR, a reduced-state matrix optimizer that improves transformer pretraining over strong baselines.
+    </p>
+  </td>
+</tr>
+
+<tr bgcolor="#ffffd0">
+  <td style="padding:16px;width:20%;vertical-align:middle">
+    <div class="one">
       <img src='images/WMLLM.png' width="160" style="object-fit:cover;width:160px;height:160px;">
     </div>
   </td>
   <td style="padding:20px;width:75%;vertical-align:middle">
-    <span class="papertitle">Empowering Self-Evolving Agents with Unified Implicit World Models</span>
+    <span class="papertitle">WMLLM: Self-Evolving Optimization Agents via Predict-Then-Act World Modeling</span>
     <br>
     <strong>Zhongzheng Li</strong>,
     Qingsong Ran,
     Shikun Feng,
     Nian Ran,
     Wenhao Li,
-    Jinbiao Nie,
     Xiaoyuan Zhang,
     Yue Wang,
     Xiaoguang Zhao
     <br>
-    <em>ICML</em>, 2026 &nbsp;<span style="color:#c00;">(Conference Submission)</span>
+    <span style="color:#c00;">(Conference Submission)</span>
     <p></p>
     <p>
-      A unified implicit world model framework that empowers agents to self-evolve by jointly learning world model knowledge and policy through co-evolution, enabling adaptive multi-turn decision-making with prediction-guided action.
+      A self-evolving optimization-agent framework built on predict-then-act world modeling: the agent first predicts promising search directions, then acts to generate candidates. Combining agentic multi-turn refinement, population-based search, and reinforcement learning, WMLLM jointly refines its implicit world model and optimization strategy, achieving state-of-the-art sample efficiency on black-box and multi-objective molecular optimization under limited evaluation budgets.
     </p>
   </td>
 </tr>
@@ -100,7 +125,7 @@
     Yue Wang,
     Wanjing Ma
     <br>
-    <em>KDD</em>, 2026 &nbsp;<span style="color:#c00;">(Conference Submission)</span>
+    <span style="color:#c00;">(Conference Submission)</span>
     <p></p>
     <p>
       Linguistic operators for differential evolution that leverage LLMs to perform semantic mutation and crossover on natural language instructions, enabling effective optimization in combinatorial and black-box problem settings.
@@ -128,7 +153,7 @@
     Richard Allmendinger,
     Xiaoguang Zhao
     <br>
-    <em>arXiv</em>, 2025
+    <em>ICML</em>, 2026
     <br>
     <a href="https://arxiv.org/abs/2510.06270">arXiv</a> /
     <a href="#">code</a>
